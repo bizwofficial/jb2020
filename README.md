@@ -5,6 +5,7 @@
 GitHub仅支持上传25MB以下的文件，所以我上传到了OneDrive。
 
 下载地址（国内可用）：[点击下载](https://officecommunity-my.sharepoint.cn/:u:/p/bizhiwen2/ERtyJ7jDPYdMpQjKST9PXxoBKpQNhHmk7Ssx79q-_hK6UA?e=EayUKo)
+
 享受10MB/s的下载速度吧！
 ## 破解补丁食用方法
 1. 安装你要安装的软件；
